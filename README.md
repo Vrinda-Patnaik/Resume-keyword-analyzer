@@ -16,7 +16,7 @@ Computes:
 - Common keywords
 - Missing keywords
 - Match percentage
-Displays results in an interactive UI.
+- Displays results in an interactive UI.
 
 ## Features
 - Real-time keyword analysis
